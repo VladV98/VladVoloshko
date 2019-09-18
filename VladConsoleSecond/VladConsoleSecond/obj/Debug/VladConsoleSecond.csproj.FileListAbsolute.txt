@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\VladConsoleSecond\VladConsoleSecond\bin\Debug\VladConsoleSecond.exe.config
+C:\Users\opilane\Desktop\VladConsoleSecond\VladConsoleSecond\bin\Debug\VladConsoleSecond.exe
+C:\Users\opilane\Desktop\VladConsoleSecond\VladConsoleSecond\bin\Debug\VladConsoleSecond.pdb
+C:\Users\opilane\Desktop\VladConsoleSecond\VladConsoleSecond\obj\Debug\VladConsoleSecond.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\VladConsoleSecond\VladConsoleSecond\obj\Debug\VladConsoleSecond.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\VladConsoleSecond\VladConsoleSecond\obj\Debug\VladConsoleSecond.exe
+C:\Users\opilane\Desktop\VladConsoleSecond\VladConsoleSecond\obj\Debug\VladConsoleSecond.pdb
