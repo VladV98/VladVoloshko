@@ -1,0 +1,11 @@
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\bin\Debug\FavouriteColorVlad.exe.config
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\bin\Debug\FavouriteColorVlad.exe
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\bin\Debug\FavouriteColorVlad.pdb
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\bin\Debug\VladConsoleSecond.exe
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\bin\Debug\VladConsoleSecond.pdb
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\bin\Debug\VladConsoleSecond.exe.config
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\obj\Debug\FavouriteColorVlad.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\obj\Debug\FavouriteColorVlad.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\obj\Debug\FavouriteColorVlad.exe
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\obj\Debug\FavouriteColorVlad.pdb
+C:\Users\opilane\Desktop\VladConsoleSecond\FavouriteColorVlad\bin\Debug\list.txt

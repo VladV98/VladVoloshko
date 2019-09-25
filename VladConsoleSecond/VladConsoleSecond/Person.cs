@@ -14,6 +14,8 @@ namespace VladConsoleSecond
 
         public ShoppingCart ShoppingCart { get; set; }
 
+        public Color FavouriteColor { get; set; }
+
         public Person (string firstName, string lastName)
         {
             FirstName = firstName;
@@ -24,5 +26,18 @@ namespace VladConsoleSecond
         {
             return FirstName + " " + LastName;
         }
+    }
+
+    public enum Color
+    {
+        Unknow,
+        Red,
+        Orange,
+        Yellow,
+        Green,
+        Blue,
+        Violet,
+        White,
+        Black
     }
 }
