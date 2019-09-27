@@ -1,0 +1,7 @@
+C:\Users\V\Desktop\VladVoloshko\VladConsoleSecond\Test1Сompletion\bin\Debug\Test1Сompletion.exe.config
+C:\Users\V\Desktop\VladVoloshko\VladConsoleSecond\Test1Сompletion\bin\Debug\Test1Сompletion.exe
+C:\Users\V\Desktop\VladVoloshko\VladConsoleSecond\Test1Сompletion\bin\Debug\Test1Сompletion.pdb
+C:\Users\V\Desktop\VladVoloshko\VladConsoleSecond\Test1Сompletion\obj\Debug\Test1Сompletion.csprojAssemblyReference.cache
+C:\Users\V\Desktop\VladVoloshko\VladConsoleSecond\Test1Сompletion\obj\Debug\Test1Сompletion.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\VladVoloshko\VladConsoleSecond\Test1Сompletion\obj\Debug\Test1Сompletion.exe
+C:\Users\V\Desktop\VladVoloshko\VladConsoleSecond\Test1Сompletion\obj\Debug\Test1Сompletion.pdb
