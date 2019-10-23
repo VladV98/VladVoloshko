@@ -21,3 +21,15 @@ C:\Users\opilane\Desktop\ShopDatabase1\ShopDatabase\obj\Debug\ShopDatabase.cspro
 C:\Users\opilane\Desktop\ShopDatabase1\ShopDatabase\obj\Debug\ShopDatabase.csproj.CoreCompileInputs.cache
 C:\Users\opilane\Desktop\ShopDatabase1\ShopDatabase\obj\Debug\ShopDatabase.exe
 C:\Users\opilane\Desktop\ShopDatabase1\ShopDatabase\obj\Debug\ShopDatabase.pdb
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\bin\Debug\ShopDatabase.exe.config
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\bin\Debug\ShopDatabase.exe
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\bin\Debug\ShopDatabase.pdb
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\bin\Debug\EntityFramework.dll
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\bin\Debug\EntityFramework.xml
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\obj\Debug\ShopDatabase.csprojAssemblyReference.cache
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\obj\Debug\ShopDatabase.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\obj\Debug\ShopDatabase.csproj.CopyComplete
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\obj\Debug\ShopDatabase.exe
+C:\Users\V\Desktop\VladVoloshko\dbLesson\ShopDatabase\obj\Debug\ShopDatabase.pdb

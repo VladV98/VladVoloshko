@@ -34,7 +34,7 @@ namespace ShopDatabase
             using (var db = new ShopDbContext())
             {
                 IQueryable <ShoppingCart> cartWithZeroSum = db.ShoppingCarts.Where(x => x.Sum == 0);
-                foreach(var cart in cartWithZeroSum)
+                foreach (var cart in cartWithZeroSum)
                 {
                     db.ShoppingCarts.Remove(cart);
                 }
@@ -55,7 +55,22 @@ namespace ShopDatabase
                     }
                     Console.WriteLine($"Total: {cart.Sum}");
                 }
+
+                Console.WriteLine();
+                Console.WriteLine("1. Show only the last(latest created) shopping cart with all its items");
+
+
+                IEnumerable <Food> Cart1 =
+                    from name in db.Foods
+                    select name;
+                Console.WriteLine(Cart1.First());
             }
+
+            //IEnumerable<string> longAnimalNames =
+                //from name in animalNames
+                //where name.Length >= 5
+                //orderby name.Length
+                //select name;
 
         }
 
@@ -67,5 +82,13 @@ namespace ShopDatabase
             newCart.AddToCart(chosenFood);
             Console.WriteLine("Anything else? Yes/No");
         }
+
+        //1. Show only the last(latest created) shopping cart with all its items
+        //2. Show only the carts with Sum > 5
+        //3. Show only the carts with more than one item in it(with the number of items)
+        //4. Show only the carts that contain bananas
+        //5. Show the total number of shopping carts
+        //6. Show the cart with maximum sum
+        //7. Show the cheapest food
     }
 }
