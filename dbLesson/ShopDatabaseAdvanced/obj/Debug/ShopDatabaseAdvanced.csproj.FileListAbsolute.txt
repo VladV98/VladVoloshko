@@ -1,0 +1,11 @@
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\bin\Debug\ShopDatabaseAdvanced.exe.config
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\bin\Debug\ShopDatabaseAdvanced.exe
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\bin\Debug\ShopDatabaseAdvanced.pdb
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\obj\Debug\ShopDatabaseAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\obj\Debug\ShopDatabaseAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\obj\Debug\ShopDatabaseAdvanced.exe
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\obj\Debug\ShopDatabaseAdvanced.pdb
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\bin\Debug\EntityFramework.dll
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\bin\Debug\EntityFramework.xml
+C:\Users\opilane\Desktop\VladVoloshko\dbLesson\ShopDatabaseAdvanced\bin\Debug\EntityFramework.SqlServer.xml
