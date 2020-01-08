@@ -1,7 +1,0 @@
-C:\Users\opilane\Desktop\VladConsoleSecond\Test1\bin\Debug\Test1.exe.config
-C:\Users\opilane\Desktop\VladConsoleSecond\Test1\bin\Debug\Test1.exe
-C:\Users\opilane\Desktop\VladConsoleSecond\Test1\bin\Debug\Test1.pdb
-C:\Users\opilane\Desktop\VladConsoleSecond\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
-C:\Users\opilane\Desktop\VladConsoleSecond\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
-C:\Users\opilane\Desktop\VladConsoleSecond\Test1\obj\Debug\Test1.exe
-C:\Users\opilane\Desktop\VladConsoleSecond\Test1\obj\Debug\Test1.pdb

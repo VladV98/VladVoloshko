@@ -1,6 +1,0 @@
-C:\Users\opilane\Desktop\VladVoloshko\VladConsoleSecond\Figutre\obj\Debug\Figure.csproj.CoreCompileInputs.cache
-C:\Users\opilane\Desktop\VladVoloshko\VladConsoleSecond\Figutre\obj\Debug\Figutre.exe
-C:\Users\opilane\Desktop\VladVoloshko\VladConsoleSecond\Figutre\obj\Debug\Figutre.pdb
-C:\Users\opilane\Desktop\VladVoloshko\VladConsoleSecond\Figutre\bin\Debug\Figutre.exe
-C:\Users\opilane\Desktop\VladVoloshko\VladConsoleSecond\Figutre\bin\Debug\Figutre.pdb
-C:\Users\opilane\Desktop\VladVoloshko\VladConsoleSecond\Figutre\obj\Debug\Figure.csprojResolveAssemblyReference.cache
